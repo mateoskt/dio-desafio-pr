@@ -1,0 +1,1 @@
+o gitbash é um console extendido para utilizar o uso do github	
